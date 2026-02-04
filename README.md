@@ -60,4 +60,4 @@
 <a href="https://orcid.org/0009-0004-5633-0487" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg" alt="orcid" height="30" width="40" /></a>
 </p>
 
-If you want to collaborate, build something together, or just say hi: **yusufoncu25@hotmail.com**
+If you want to collaborate, build something together, or just say hi: **yusufoncu.dev@gmail.com**
